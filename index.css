@@ -50,3 +50,10 @@
     padding:10px;
     border-radius: 20px;
 }
+.filter-btn{
+    padding:10px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    margin: 10px;
+    cursor: pointer;
+}
